@@ -2,10 +2,10 @@
   "id": "acode.plugin.smali",
   "name": "Smali",
   "main": "dist/main.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "readme": "readme.md",
   "icon": "icon.png",
-  "minVersionCode": 293,
+  "minVersionCode": 292,
   "files": [],
   "author": {
     "name": "Foxdebug",
